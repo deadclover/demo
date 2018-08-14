@@ -4,4 +4,4 @@ this helps with learning
 
 I have successfuly made changes, I wanted even more
 
-this is bad
+this is a good place for changes
