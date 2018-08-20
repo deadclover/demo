@@ -6,7 +6,7 @@ I have successfuly made changes, I wanted even more
 
 this is a good place for changes
 
-#fuckit they get nothing
+
 
 maybe taht was a little harsh
 
